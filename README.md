@@ -10,4 +10,3 @@ The putDisc() function places a game piece in the specified cell, checks if any 
 
 The code also defines several helper functions, such as checkDisc() to check if a cell is valid for placing a game piece, and flipDisc() to flip the opponent's pieces when a piece is placed.
 
-Overall, this code provides a functional implementation of the Reversi game that can be played in a web browser using an HTML canvas.
