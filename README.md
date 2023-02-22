@@ -1,0 +1,2 @@
+# Reversi---Othello
+HMTL-Javascript
